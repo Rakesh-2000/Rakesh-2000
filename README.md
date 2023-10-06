@@ -18,15 +18,7 @@ I'm a passionate developer with a BCA degree from Bangalore City University. My 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
 
-### 🌱 Currently Learning
-I’m currently exploring new technologies to expand my skillset and enhance my development capabilities.
-
 ### 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/rakesh2000](https://www.linkedin.com/in/rakesh2000)
 - GitHub: [@Rakesh-2000](https://github.com/Rakesh-2000)
 
-Feel free to reach out if you share similar interests or if you just want to connect!
-
----
-
-Feel free to customize the content further or add any additional sections you find relevant.
