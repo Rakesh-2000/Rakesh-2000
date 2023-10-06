@@ -1,9 +1,32 @@
-- 👋 Hi, I’m @Rakesh-2000
-- 👀 I’m interested in App Development, Web development, Python development 
-- BCA Graduate from bangalore city university.
-- My skills include React Native || TypeScript || React.js || JavaScript || Python || HTML || CSS 
+### Hi there, I'm Rakesh! 👋
+I'm a passionate developer with a BCA degree from Bangalore City University. My interests lie in App Development, Web Development, and Python Development. I love creating interactive and efficient applications, and I specialize in the following technologies:
 
-<!---
-Rakesh-2000/Rakesh-2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- React Native
+- TypeScript
+- React.js
+- JavaScript
+- Python
+- HTML
+- CSS
+
+### 🔧 Technologies & Tools
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+
+### 🌱 Currently Learning
+I’m currently exploring new technologies to expand my skillset and enhance my development capabilities.
+
+### 📫 Let's Connect
+- LinkedIn: [linkedin.com/in/rakesh2000](https://www.linkedin.com/in/rakesh2000)
+- GitHub: [@Rakesh-2000](https://github.com/Rakesh-2000)
+
+Feel free to reach out if you share similar interests or if you just want to connect!
+
+---
+
+Feel free to customize the content further or add any additional sections you find relevant.
