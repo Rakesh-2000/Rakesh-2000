@@ -4,6 +4,7 @@ I'm a passionate developer with a BCA degree from Bangalore City University. My 
 - React Native
 - TypeScript
 - React.js
+- Next.js
 - JavaScript
 - Python
 - HTML
