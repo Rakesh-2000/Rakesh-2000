@@ -21,5 +21,4 @@ I'm a passionate developer with a BCA degree from Bangalore City University. My 
 
 ### 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/rakesh2000](https://www.linkedin.com/in/rakesh2000)
-- GitHub: [@Rakesh-2000](https://github.com/Rakesh-2000)
 
